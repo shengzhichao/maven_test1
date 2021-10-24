@@ -9,5 +9,8 @@ public class Hellogit {
         System.out.println("hello,git");
         System.out.println("hello,git");
         System.out.println("hello,git");
+        System.out.println("hello,git");
+        System.out.println("hello,git");
+        System.out.println("hello,git");
     }
 }
