@@ -17,6 +17,9 @@ public class Hellogit {
         System.out.println("hello,git-hot-fix2");
         System.out.println("hello,git-hot-fix3");
         System.out.println("push-commit");
+        System.out.println("push-commit");
+        System.out.println("push-commit");
         ////////
     }
+
 }
